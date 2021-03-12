@@ -78,7 +78,7 @@
 				<configuration>
 					<archive>
 						<manifest>
-							<mainClass>com.journaldev.maven.App</mainClass>
+							<mainClass>com.journaldev.maven.classes.App</mainClass>
 						</manifest>
 					</archive>
 				</configuration>
